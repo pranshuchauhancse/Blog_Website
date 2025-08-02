@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
@@ -19,7 +18,18 @@
     "imagekit": "^6.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.4",
-    "multer": "^2.0.2",
+    "multer": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranshuchauhancse/Blog_Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranshuchauhancse/Blog_Website/issues"
+  },
+  "homepage": "https://github.com/pranshuchauhancse/Blog_Website#readme",
+  "description": "",
+  "devDependencies": {
     "nodemon": "^3.1.10"
   }
 }
